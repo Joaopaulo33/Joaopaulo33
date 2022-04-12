@@ -1,4 +1,4 @@
-## Ooi, sou o João Paulo 👋
+## Olá! Me chamo João Paulo 👋
 - 🔭 Aprofundando conhecimentos pela plataforma Rocketseat(Seguindo a trilha de React.js no momento).
 - 🌱 Atualmente Estou estudando ferramentas tanto para front-end, quanto para back-end. 
 
