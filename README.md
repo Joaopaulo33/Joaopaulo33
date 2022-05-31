@@ -1,6 +1,7 @@
 ## Olá! Me chamo João Paulo 👋
 - 🔭 Aprofundando conhecimentos pela plataforma Rocketseat(Seguindo a trilha de React.js no momento).
 - 🌱 Atualmente Estou estudando ferramentas tanto para front-end, quanto para back-end. 
+- 🗻Fazendo estágio fullstack, utilizando PHP, Javascript, Node, Bootstrap.
 
 <div>
   <a href="https://beacons.ai/joaopaulo33">
