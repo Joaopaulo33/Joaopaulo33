@@ -3,12 +3,6 @@
 - 🌱 Atualmente Estou estudando ferramentas tanto para front-end, quanto para back-end. 
 - 🗻 Atuando como desenvolvedor utilizando ferramentas como Javascript, php , Node, sqlserver.
 - 📘 Graduando na Pontifícia Universidade Católica de Minas Gerais, no cuso de Sistemas de Informação. 
-
-<div>
-  <a href="https://beacons.ai/joaopaulo33">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopaulo33&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulo33&layout=compact&langs_count=16&theme=dark"/>
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
