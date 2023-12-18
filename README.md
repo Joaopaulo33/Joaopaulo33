@@ -2,7 +2,7 @@
 - 🔭 Aprofundando conhecimentos pela plataforma Rocketseat(Seguindo a trilha de React.js no momento).
 - 🌱 Atualmente Estou estudando ferramentas tanto para front-end, quanto para back-end. 
 - 🗻 Atuando como desenvolvedor utilizando ferramentas como Javascript, php, Node, sqlserver.
-- 📘 Graduando na Pontifícia Universidade Católica de Minas Gerais, no curso de Sistemas de Informação. 
+- 📘 Graduando na Pontifícia Universidade Federal de Minas Gerais, no curso de Sistemas de Informação. 
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
