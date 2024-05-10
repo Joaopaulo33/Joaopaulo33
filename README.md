@@ -1,7 +1,7 @@
 ## Olá! Me chamo João Paulo 👋
 - 🔭 Aprofundando conhecimentos pela plataforma Rocketseat.
 - 🌱 Atualmente Estou estudando ferramentas tanto para front-end, quanto para back-end. 
-- 🗻 Atuando como desenvolvedor utilizando ferramentas como Javascript, php, Node, sqlserver.
+- 🗻 Atuando como desenvolvedor utilizando ferramentas como Javascript, php, Node, sqlserver, React Native.
 - 📘 Graduando na Universidade Federal de Minas Gerais, no curso de Sistemas de Informação. 
   
 <div style="display: inline_block"><br>
